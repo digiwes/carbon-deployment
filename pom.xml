@@ -1403,7 +1403,7 @@
         <!--<commons-fileupload.version>1.1.1</commons-fileupload.version>-->
         <!--<commons-io.wso2.version>2.0.0.wso2v1</commons-io.wso2.version>-->
         <!--<xmlschema.version>1.4.3</xmlschema.version>-->
-        <wsdl4j.wso2.version>1.6.2.wso2v4</wsdl4j.wso2.version>
+        <wsdl4j.wso2.version>1.6.2.wso2v2</wsdl4j.wso2.version>
         <!--<geronimo-stax-api.wso2.version>1.0.1.wso2v1</geronimo-stax-api.wso2.version>-->
         <!--<activation.version>1.1</activation.version>-->
         <!--<commons-dbcp.version>1.2.2</commons-dbcp.version>-->
@@ -1420,7 +1420,7 @@
         <!-- CXF Runtime Bundles -->
         <cxf.bundle.version>2.7.16</cxf.bundle.version>
         <cxf.xjc.version>3.0.2</cxf.xjc.version>
-        <spring.version>4.0.6.RELEASE</spring.version>
+        <spring.version>3.0.7.RELEASE</spring.version>
         <carbon.cxf.webapp.ext>1.0.1</carbon.cxf.webapp.ext>
         <aopalliance.version>1.0</aopalliance.version>
         <wss4j.version>1.5.11-wso2v8</wss4j.version>
@@ -1461,7 +1461,7 @@
         <openwebbeans.version>1.2.7</openwebbeans.version>
         <openwebbeans.orbit.version>1.2.7.wso2v1</openwebbeans.orbit.version>
         <saaj.impl.orbit.version>1.3.18.wso2v1</saaj.impl.orbit.version>
-        <tomcat.tribes.orbit.version>7.0.34.wso2v2</tomcat.tribes.orbit.version>
+        <tomcat.tribes.orbit.version>7.0.34.wso2v1</tomcat.tribes.orbit.version>
         <commons.lang3.version>3.3.2</commons.lang3.version>
         <commons.beanutils.orbit.version>1.8.0.wso2v1</commons.beanutils.orbit.version>
         <serp.orbit.version>1.14.1.wso2v1</serp.orbit.version>
