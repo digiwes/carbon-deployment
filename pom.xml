@@ -1343,7 +1343,7 @@
         <axis2.wso2.version>1.6.1.wso2v14</axis2.wso2.version>
         <axis2.osgi.version.range>[1.6.1.wso2v14, 1.7.0)</axis2.osgi.version.range>
         <imp.pkg.version.axis2>[1.6.1.wso2v14, 1.7.0)</imp.pkg.version.axis2>
-        <orbit.version.axis2>1.6.1.wso2v15</orbit.version.axis2>
+        <orbit.version.axis2>1.6.1.wso2v11</orbit.version.axis2>
         <axis2.wso2.version.aar.plugin>1.6.2</axis2.wso2.version.aar.plugin>
         <neethi.osgi.version>2.0.4.wso2v4</neethi.osgi.version>
         <neethi.osgi.version.range>[2.0.4.wso2v4, 3.1.0)</neethi.osgi.version.range>
@@ -1434,9 +1434,9 @@
         <jaxb.xjc.version>2.2.6</jaxb.xjc.version>
         <jaxb.impl.version>2.2.6</jaxb.impl.version>
         <javax.ws.rs.version>2.0-m10</javax.ws.rs.version>
-        <httpcore.nio.version>4.2.4</httpcore.nio.version>
+        <httpcore.nio.version>4.3.3</httpcore.nio.version>
         <httpcore.version>4.3.3</httpcore.version>
-        <httpclient.version>4.3.4</httpclient.version>
+        <httpclient.version>4.3.3</httpclient.version>
         <httpasyncclient.version>4.0-beta3</httpasyncclient.version>
         <ehcache.core.version>2.5.1</ehcache.core.version>
         <velocity.version>1.7</velocity.version>
@@ -1453,7 +1453,7 @@
         <!--json wso2-->
         <!--<version.json.wso2>2.0.0.wso2v1</version.json.wso2>-->
 
-        <javax.ws.rs-api.version>2.0-m10</javax.ws.rs-api.version>
+        <javax.ws.rs-api.version>2.0.1</javax.ws.rs-api.version>
 
         <tomee.version>1.7.2</tomee.version>
         <tomee.orbit.version>1.7.2.wso2v2</tomee.orbit.version>
